@@ -1,6 +1,6 @@
-EasySoulsAI - A KVP System for Easy Creation and Modification of Enemy Behaviors
+Wondrous Physick (formerly known as EasySoulsAI) - A Mini-Database System for Easy Creation and Modification of Enemy Behaviors
 
-*Requires Sword Mastery to work or something adjacent to it.
+*Requires Sword Mastery to work or something adjacent to it. Read more below to create your own.
 
 How the does this work?
 
