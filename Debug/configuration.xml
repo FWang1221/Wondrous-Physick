@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <appSettings>
+        <add key="Preset: DS1 Speed.csv" value="false" />
+        <add key="Preset: Elemental Weaknesses.csv" value="false" />
+        <add key="Preset: I am Waterfowl, Blade of Miquella.csv" value="false" />
+        <add key="Preset: Sword Mastery Boss Pack.csv" value="true" />
+    </appSettings>
+</configuration>

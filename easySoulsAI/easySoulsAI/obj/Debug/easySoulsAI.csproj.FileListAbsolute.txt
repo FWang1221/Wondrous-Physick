@@ -1,7 +1,0 @@
-C:\Users\Francis Wang\source\repos\easySoulsAI\easySoulsAI\bin\Debug\easySoulsAI.exe.config
-C:\Users\Francis Wang\source\repos\easySoulsAI\easySoulsAI\bin\Debug\easySoulsAI.exe
-C:\Users\Francis Wang\source\repos\easySoulsAI\easySoulsAI\bin\Debug\easySoulsAI.pdb
-C:\Users\Francis Wang\source\repos\easySoulsAI\easySoulsAI\obj\Debug\easySoulsAI.csproj.AssemblyReference.cache
-C:\Users\Francis Wang\source\repos\easySoulsAI\easySoulsAI\obj\Debug\easySoulsAI.csproj.CoreCompileInputs.cache
-C:\Users\Francis Wang\source\repos\easySoulsAI\easySoulsAI\obj\Debug\easySoulsAI.exe
-C:\Users\Francis Wang\source\repos\easySoulsAI\easySoulsAI\obj\Debug\easySoulsAI.pdb
