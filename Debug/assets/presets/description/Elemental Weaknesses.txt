@@ -1,0 +1,24 @@
+This is a small addon allowing for the following interactions:
+
+Maliketh heals from taking all forms of Death damage including Black Flame.
+
+Godskin enemies heal from taking Black Flame damage but take huge amounts of damage when under Destined Death effects.
+
+Black Flame, Ghost Flame, and Destined Death will instantly kill Godwyn-Death-Resultant-type enemies such as Skeletons, Mariners, and Cemetary Shades. Undead Beastmen don't count, however.
+
+All main Erdtree-aligned bosses take extra damage from Frenzy but they'll hit much harder as a result and if applicable (and it makes sense), will enter Phase 2.
+
+Bosses that wield swords will be Crossbow Parried when Clashed against.
+
+Law of Regression knocks most bosses out of their second phase and changes the physical properties of enemies greatly.
+
+Blood attacks heal blood-type bosses and enemies such as Mohg, Monstrous Blood Crows, Morgott, Bloody Fingers, etc.
+
+Lightning attacks supercharge Leyndell Knights and makes them more prone to do special lightning attacks.
+
+Ballista and Flamethrowers will attack on their own when crystal weaponry/spells hit them.
+
+Scarlet Rot-type enemies have a chance to explode into a rot cloud if they get hit by Scarlet Rot. They will also heal if they are affected by Scarlet Rot.
+
+
+

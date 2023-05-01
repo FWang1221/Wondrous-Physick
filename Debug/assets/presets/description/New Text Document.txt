@@ -1,0 +1,10 @@
+The speedpack modifying the following bosses under Sword Mastery's changed attack and speed patterns. Bosses are given extra phases with different timings and attack chains.
+
+The pack contains the following bosses:
+
+Beast Clergyman/Maliketh
+Malenia
+Margit/Morgott
+Radagon
+Godrick
+Godfrey
